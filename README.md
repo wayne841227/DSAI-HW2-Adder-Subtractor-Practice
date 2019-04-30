@@ -25,4 +25,14 @@ accuracy: 0.37525
 
 有做multiplication的實驗，accuracy: 0.1781，非常低，有可能需要更大的training size
 
+### Addition model
+https://nbviewer.jupyter.org/github/wayne841227/DSAI-HW2-Adder-Subtractor-Practice/blob/master/Addition.ipynb
+### Subtraction model
+https://nbviewer.jupyter.org/github/wayne841227/DSAI-HW2-Adder-Subtractor-Practice/blob/master/Subtraction.ipynb
+### Addition & Subtraction combine
+https://nbviewer.jupyter.org/github/wayne841227/DSAI-HW2-Adder-Subtractor-Practice/blob/master/Combine.ipynb
+### Multiplication model
+https://nbviewer.jupyter.org/github/wayne841227/DSAI-HW2-Adder-Subtractor-Practice/blob/master/Multiplication.ipynb
+
+
 
